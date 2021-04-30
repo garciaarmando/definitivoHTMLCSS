@@ -1,0 +1,23 @@
+/* Calling by element */
+
+
+/* p {
+    color: blue;
+    font-size: 40px;
+} */
+
+
+/* calling by class */
+
+.paragraph {
+    color: green;
+    font-size: 40px;
+}
+
+
+/* calling by ID */
+
+#parrafo {
+    color: blueviolet;
+    font-size: 60px;
+}
