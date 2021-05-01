@@ -1,0 +1,40 @@
+.main-nav {
+    margin-top: 10px;
+    list-style: none;
+    padding-left: 0px;
+    background-color: #13a4a4;
+}
+
+.main-nav__item {
+    display: inline-block;
+}
+
+.main-nav__item a {
+    color: white;
+    padding: 5px;
+    text-decoration: none;
+}
+
+
+/* Pseudoclases */
+
+.main-nav__item a:hover {
+    color: blue;
+}
+
+
+/* active === darle click */
+
+.main-nav__item a:active {
+    color: red;
+}
+
+
+/* Pseudoelementos */
+
+
+/* after===después del seudoelemento añadir contenido de "" */
+
+.main-nav__item a::after {
+    content: " | ";
+}
