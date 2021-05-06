@@ -1,0 +1,8 @@
+/* General siblings */
+
+
+/* Aplica el color rojo a todos los p que dentro de un contenedor se encuentren con un h2 */
+
+h2~p {
+    color: red;
+}
