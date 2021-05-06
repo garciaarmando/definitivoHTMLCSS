@@ -1,0 +1,8 @@
+/*cobinador:  adjacent sibling */
+
+
+/* aplica color rojo a etiquetas p cerca de h2 */
+
+h2+p {
+    color: red;
+}
