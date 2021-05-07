@@ -1,0 +1,12 @@
+/*Child:  color rojo a toda etiqueta p que sea hija DIRECTA de div */
+
+div>p {
+    color: red;
+}
+
+
+/* Descendent: El que se usa comunmente, indica que se debe aplicar color rojo a todas las etiquetas p que estén dentro de un div */
+
+div p {
+    color: red;
+}
