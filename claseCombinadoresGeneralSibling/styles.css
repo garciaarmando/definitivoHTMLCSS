@@ -1,7 +1,7 @@
 /* General siblings */
 
 
-/* Aplica el color rojo a todos los p que dentro de un contenedor se encuentren con un h2 */
+/*La regla indica: aplica color rojo a cualquier p que convivan dentro del mismo contenedor con un h2*/
 
 h2~p {
     color: red;
