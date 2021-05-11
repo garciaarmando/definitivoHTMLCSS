@@ -1,4 +1,21 @@
 * {
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
+}
+
+
+/* REM referencia al estilo que tenga la etiqueta de root */
+
+html {
+    /* Esto da al font size un tamaño de 10 px */
+    font-size: 62.5%;
+}
+
+p {
+    font-size: 1.6rem;
+}
+
+.segundo {
+    font-size: 2rem;
 }
