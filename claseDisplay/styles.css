@@ -3,3 +3,9 @@
     margin: 0;
     padding: 0;
 }
+
+.block-element {
+    background-color: green;
+    margin: 0.625rem;
+    padding: 1.25rem;
+}
